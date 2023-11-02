@@ -1,6 +1,6 @@
 # Computer Vision Repository
 
-Welcome to the Computer Vision Repository, where we explore the fascinating world of image understanding and analysis. This repository serves as a resource for enthusiasts and professionals alike, delving into the intersection of computer vision and deep learning. We utilize a range of tools including MATLAB, Python, OpenCV, and various deep learning frameworks to build, experiment, and innovate.
+Welcome to the Computer Vision Repository, where I explore the fascinating world of image understanding and analysis. This repository serves as a resource for enthusiasts and professionals alike, delving into the intersection of computer vision and deep learning. I utilize a range of tools including MATLAB, Python, OpenCV, and various deep learning frameworks to build, experiment, and innovate.
 
 ## Description
 
